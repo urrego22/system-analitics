@@ -10,3 +10,5 @@ verificamos que el package.js tenga todo su contenido correspondiente.
 //por defecto la pantalla se limpia en cada actualizacion pero si no queremos eso usamos node src/app.js monitor --no clear
 
 // pudimos usar modulos natitos console,process,os y timers.
+
+//Sara Garcia Urrego
